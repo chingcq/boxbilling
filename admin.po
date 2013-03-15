@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: BoxBilling\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-15 16:34+0800\n"
+"PO-Revision-Date: 2013-03-16 01:36+0800\n"
 "Last-Translator: BoxBilling <info@boxbilling.com>\n"
 "Language-Team: KiHaRa Software <support@khrsoft.com>\n"
 "Language: Chinese\n"
@@ -1539,7 +1539,7 @@ msgid "Client status and group"
 msgstr "客户状态和组"
 
 msgid "Has order"
-msgstr "有顺序"
+msgstr "有订单"
 
 msgid "Message content"
 msgstr "留言内容"
@@ -2931,16 +2931,16 @@ msgid "Recent staff activity"
 msgstr "最近员工活动"
 
 msgid "Create new order"
-msgstr "建立新秩序"
+msgstr "建立新订单"
 
 msgid "for"
 msgstr "对于"
 
 msgid "Activate order"
-msgstr "启动顺序"
+msgstr "启动订单"
 
 msgid "Place new order"
-msgstr "放置新的秩序"
+msgstr "放置新的订单"
 
 msgid "Order management"
 msgstr "订单管理"
@@ -3199,7 +3199,7 @@ msgid "Default product which partners are reselling."
 msgstr "默认产品的合作伙伴转售。"
 
 msgid "Default order limit for partner per day. Used to prevent API abuse"
-msgstr "默认的顺序限制每天为合作伙伴。用于防止滥用API"
+msgstr "默认订单限制每天的伙伴。用于防止API滥用"
 
 msgid "Optional rules for becoming partner"
 msgstr "可选规则成为合作伙伴"
@@ -3208,7 +3208,7 @@ msgid "Product which must be ordered before becoming partner"
 msgstr "成为合作伙伴之前必须订购产品"
 
 msgid "Check partners balance before creating new order for available amount"
-msgstr "检查合作伙伴结余，然后再创建新的可供数额顺序"
+msgstr "检查合作伙伴结余，然后再创建新的可供数额的订单"
 
 msgid "How much money must be on clients balance to become a partner"
 msgstr "多少钱必须在客户端上结余成为合作伙伴"
