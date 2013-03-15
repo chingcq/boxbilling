@@ -1,0 +1,3306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BoxBilling\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-03-15 16:34+0800\n"
+"Last-Translator: BoxBilling <info@boxbilling.com>\n"
+"Language-Team: KiHaRa Software <support@khrsoft.com>\n"
+"Language: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "General settings"
+msgstr "常规设置"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Addons"
+msgstr "附加产品"
+
+msgid "Upgrades"
+msgstr "升级"
+
+msgid "Links"
+msgstr "链接"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Category"
+msgstr "类别"
+
+msgid "Custom order form"
+msgstr "自定义订单表格"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Hidden"
+msgstr "隐藏"
+
+msgid "Activation"
+msgstr "激活"
+
+msgid "Icon URL"
+msgstr "图标URL"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Payment options"
+msgstr "付款方式"
+
+msgid "Product / service description"
+msgstr "产品/服务描述"
+
+msgid "Choose which addons you would like to offer with"
+msgstr "选择你想开设的插件"
+
+msgid "The list is empty"
+msgstr "该列表为空"
+
+msgid "Choose which products can client upgrade to"
+msgstr "选择哪些产品可以客户端升级"
+
+msgid "Product Upgrades"
+msgstr "产品升级"
+
+msgid "No additional configuration for this product is required"
+msgstr "此产品是不需要额外的配置"
+
+msgid "Product links"
+msgstr "产品链接"
+
+msgid "Product ID"
+msgstr "产品编号"
+
+msgid "Order page with ID"
+msgstr "订单页ID"
+
+msgid "Order page with slug"
+msgstr "订单页slug"
+
+msgid "Select icon and click OK"
+msgstr "选择图标，然后单击“确定”"
+
+msgid "Payment type"
+msgstr "付款类型"
+
+msgid "Setup price"
+msgstr "设置价格"
+
+msgid "Price"
+msgstr "价格"
+
+msgid "Total"
+msgstr "合计"
+
+msgid "One time"
+msgstr "一次"
+
+msgid "Price for period"
+msgstr "价格期内"
+
+msgid "First payment sum"
+msgstr "首付金额"
+
+msgid "On"
+msgstr "在"
+
+msgid "Weekly"
+msgstr "每周"
+
+msgid "Monthly"
+msgstr "每月一次"
+
+msgid "Every 3 months"
+msgstr "每3个月"
+
+msgid "Every 6 months"
+msgstr "每6个月"
+
+msgid "Every year"
+msgstr "每年"
+
+msgid "Every 2 years"
+msgstr "每2年"
+
+msgid "Every 3 years"
+msgstr "每3年"
+
+msgid "Centova Cast order details"
+msgstr "Centova订单的详细信息"
+
+msgid "Changing settings does not send actions to CentovaCast server."
+msgstr "更改的设置将不会被发送到CentovaCast服务器。"
+
+msgid "Server"
+msgstr "服务器"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Reconfigure"
+msgstr "重新配置"
+
+msgid "Changing CentovaCast server settings."
+msgstr "更改CentovaCast服务器设置。"
+
+msgid "Hostname"
+msgstr "主机名"
+
+msgid "IP Address"
+msgstr "IP地址"
+
+msgid "Port"
+msgstr "端口"
+
+msgid "Max clients"
+msgstr "最大客户"
+
+msgid "Source password"
+msgstr "源密码"
+
+msgid "Max BitRate"
+msgstr "最大码率"
+
+msgid "Transfer limit"
+msgstr "转账限额"
+
+msgid "Disk quota"
+msgstr "磁盘配额"
+
+msgid "Organization"
+msgstr "组织"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Auto rebuild list"
+msgstr "自动重建列表"
+
+msgid "Account details"
+msgstr "帐户详细信息"
+
+msgid "Parameter"
+msgstr "参数"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Mass Mail Messages"
+msgstr "群发邮件"
+
+msgid "Create new mass mail message"
+msgstr "创建新的邮件群发消息"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "From"
+msgstr "从"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Mass Mail Settings"
+msgstr "邮件群发设置"
+
+msgid "Configuration updated"
+msgstr "配置更新"
+
+msgid "Client ID to send test email while creating message"
+msgstr "在创建消息时发送测试电子邮件的客户端ID"
+
+msgid "Custom forms"
+msgstr "自定义表单"
+
+msgid "Import form"
+msgstr "导入表单"
+
+msgid "Create new form"
+msgstr "创建新的表单"
+
+msgid "Import"
+msgstr "输入"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Dropdown"
+msgstr "下拉"
+
+msgid "Radio"
+msgstr "收音机"
+
+msgid "Yes/No"
+msgstr "是/否"
+
+msgid "Textarea"
+msgstr "Textarea"
+
+msgid "Optional"
+msgstr "可选"
+
+msgid "Required"
+msgstr "需要"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Done editing"
+msgstr "编辑完成"
+
+msgid "Hi,"
+msgstr "Hi,"
+
+msgid "Loading ..."
+msgstr "载入中..."
+
+msgid "New"
+msgstr "新"
+
+msgid "Visit site"
+msgstr "访问网站"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Orders"
+msgstr "订单"
+
+msgid "Invoices"
+msgstr "发票"
+
+msgid "Inquiries"
+msgstr "咨询"
+
+msgid "Tickets"
+msgstr "票"
+
+msgid "Clients"
+msgstr "客户端"
+
+msgid "Dashboard"
+msgstr "仪表盘"
+
+msgid "Profile"
+msgstr "简介"
+
+msgid "Payments"
+msgstr "付款"
+
+msgid "Logins"
+msgstr "登录"
+
+msgid "Emails"
+msgstr "电子邮件"
+
+msgid "Profile details"
+msgstr "查看资料"
+
+msgid "Client profile details"
+msgstr "客户端配置文件详细信息"
+
+msgid "Client Profile updated"
+msgstr "更新客户端配置文件"
+
+msgid "Active"
+msgstr "活跃"
+
+msgid "Suspended"
+msgstr "暂停"
+
+msgid "Canceled"
+msgstr "取消"
+
+msgid "Individual"
+msgstr "个人"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Other/Unknown"
+msgstr "其他/未知"
+
+msgid "Group"
+msgstr "组"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Company details"
+msgstr "公司信息"
+
+msgid "Address and contact details"
+msgstr "地址和详细联系方式"
+
+msgid "Address Line 1"
+msgstr "地址1"
+
+msgid "Address Line 2"
+msgstr "地址2"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "State"
+msgstr "省"
+
+msgid "City"
+msgstr "市"
+
+msgid "Postcode"
+msgstr "邮编"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Additional settings"
+msgstr "附加设置"
+
+msgid "Alternative ID"
+msgstr "替代ID"
+
+msgid "Used to identify client on foreign system. Usually used by importers"
+msgstr "用于识别外部系统的客户端。通常由进口商"
+
+msgid "Currency"
+msgstr "货币"
+
+msgid "Exempt from tax"
+msgstr "免缴营业税"
+
+msgid "Signed up time"
+msgstr "签署时间"
+
+msgid "Notes"
+msgstr "笔记"
+
+msgid "Update profile"
+msgstr "更新个人资料"
+
+msgid "Change password"
+msgstr "更改密码"
+
+msgid "Password changed"
+msgstr "密码修改"
+
+msgid "Password confirm"
+msgstr "密码确认"
+
+msgid "Custom fields"
+msgstr "自定义字段"
+
+msgid "Use these fields to define custom client details"
+msgstr "使用这些字段定义自定义客户的详细资料"
+
+msgid "Client Profile custom fields updated"
+msgstr "更新客户端配置文件的自定义字段"
+
+msgid "Custom field"
+msgstr "自定义字段"
+
+msgid "Client payments history"
+msgstr "客户付款历史记录"
+
+msgid "Amount"
+msgstr "数量"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Balance"
+msgstr "结余"
+
+msgid "Add funds for client"
+msgstr "为客户端添加资金"
+
+msgid "Funds added"
+msgstr "资金增加"
+
+msgid "Add funds"
+msgstr "添加资金"
+
+msgid "Client orders"
+msgstr "客户订单"
+
+msgid "Client invoices"
+msgstr "客户发票"
+
+msgid "Client support tickets"
+msgstr "客户端的支持票"
+
+msgid "Logins history"
+msgstr "登录历史"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Emails sent to client"
+msgstr "电子邮件发送到客户端"
+
+msgid "Email subject"
+msgstr "电子邮件主题"
+
+msgid "To"
+msgstr "至"
+
+msgid "Date sent"
+msgstr "发出日期"
+
+msgid "Category updated"
+msgstr "分类已更新"
+
+msgid "Icon"
+msgstr "Icon"
+
+msgid "Domains management"
+msgstr "域名管理"
+
+msgid "System settings"
+msgstr "系统设置"
+
+msgid "Invoice"
+msgstr "发票"
+
+msgid "Order"
+msgstr "订购"
+
+msgid "FTP layer"
+msgstr "FTP层"
+
+msgid "Scheduled tasks"
+msgstr "计划任务"
+
+msgid "License"
+msgstr "License"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Logo URL"
+msgstr "Logo URL"
+
+msgid "Company number, chamber of commerce number"
+msgstr "公司编号，商品数量室"
+
+msgid "VAT number"
+msgstr "增值税号码"
+
+msgid "Bank Account number"
+msgstr "银行账号"
+
+msgid "Signature"
+msgstr "签名"
+
+msgid "Update settings"
+msgstr "更新设置"
+
+msgid "Company terms of service, legal regulation"
+msgstr "公司服务条款，法律法规"
+
+msgid "Company privacy policy"
+msgstr "公司隐私政策"
+
+msgid "Orders settings"
+msgstr "常规设置"
+
+msgid "Expiration date"
+msgstr "到期日期"
+
+msgid "Invoice settings"
+msgstr "发票设置"
+
+msgid "Number of days to generate new invoice before order expiration"
+msgstr "产生新的发票到期日数为"
+
+msgid "Invoice due days"
+msgstr "发票到期日"
+
+msgid "Auto invoice approval"
+msgstr "自动发票审批"
+
+msgid "Proforma Invoicing / Sequential Invoice Numbering"
+msgstr "形式发票/发票编号顺序"
+
+msgid "Proforma invoice prefix/series"
+msgstr "形式发票前缀/系列"
+
+msgid "Paid invoice prefix/series"
+msgstr "支付发票前缀/系列"
+
+msgid "Next paid invoice number"
+msgstr "下一步支付发票号码"
+
+msgid "Refunds settings"
+msgstr "退款设置"
+
+msgid "Refunds logic"
+msgstr "退款逻辑"
+
+msgid "Add funds settings"
+msgstr "添加资金设置"
+
+msgid "Minimum amount for add funds invoice"
+msgstr "添加最低金额资金的发票"
+
+msgid "Unlimited"
+msgstr "无限"
+
+msgid "Maximum amount for add funds invoice"
+msgstr "添加最大金额到发票"
+
+msgid "FTP layer for BoxBilling"
+msgstr "BoxBillingFTP层"
+
+msgid "FTP is used to manage BoxBilling modules and updates."
+msgstr "FTP使用以管理BoxBilling模块和更新。"
+
+msgid "FTP settings updated"
+msgstr "FTP设置更新"
+
+msgid ""
+"<strong>FTP Hostname</strong> - can be a numerical URL 127.0.0.1 is the "
+"default address for a locally hosted server, it might be this, it might be "
+"the full URL as my example above with the File Transfer Protocol (FTP) "
+"prefix, it might be the http:// protocol it might be SFTP (secure FTP) even "
+"secure http (https). Your host will be able to advise you on the correct "
+"format."
+msgstr ""
+"<strong>FTP主机</strong> -可以是一个数值地址127.0.0.1是本地主机服务器的默认地"
+"址，它可能是这样的，它可能是完整的URL作为我的上述例子的文件传输协议（FTP）的"
+"前缀，它可能是http://协议可能是（FTP）甚至安全HTTP（HTTPS）。你的经销商会告诉"
+"你正确的格式。"
+
+msgid ""
+"<strong>FTP port</strong> - is nearly always 21 unless the host has changed "
+"this they will have notified you of this. Secure FTP generally uses port 22."
+msgstr ""
+"<strong>FTP端口</strong> -几乎总是21，除非它被改变了，经销商是会通知你的。FTP"
+"一般使用端口22。"
+
+msgid ""
+"<strong>FTP user</strong> - In most cases, this is the specific user name "
+"your host has set up for you to access your Web site via FTP- It is the name "
+"you use in your FTP client. This could be an alphanumeric, it could be your "
+"name, even your e-mail address, If you don't know this speak to your host. "
+"You may have the facility on your Web account to set up additional FTP users "
+"if that is the case (and it's more secure) you are recommended to do this"
+msgstr ""
+"<strong>FTP的用户</strong> - 在大多数情况下，这是特定的用户名，您的主机已经设"
+"置了你通过FTP访问您的网站，它的名字是你用你的FTP客户端。这可能是一个字母数"
+"字，它可能是你的名字，即使你的e-mail地址，如果你不知道这个说话到你的主机。如"
+"果是这样的情况下（这是更安全的，您可能有设施，在您的Web帐户设置额外的FTP用"
+"户），建议您这样做"
+
+msgid ""
+"<strong>FTP password</strong> - this is the password you enter in your FTP "
+"client."
+msgstr "<strong>FTP密码</strong> -这是在你的FTP客户端输入你的密码。"
+
+msgid ""
+"<strong>FTP root</strong> - This is generally the directory in which "
+"BoxBilling is installed. This setting is very important to be setup "
+"correctly as it very specifically depends on the Host server settings. In "
+"can be just / BUT it might be htdocs/boxbilling, public_html/, /public_html/"
+"boxbilling or other. It is a variable that BoxBilling has absolutely no "
+"control over. You will need to clarify this with your host."
+msgstr ""
+"<strong>FTP根</strong> -这是普遍的，boxbilling安装目录。这个设置是正确安装它"
+"非常具体取决于主机服务器的设置。可以只/但可以htdocs/boxbilling，"
+"public_html/，/public_html/boxbilling或其他。它是一个变量，boxbilling完全没有"
+"控制。你将需要澄清跟你的服务器。"
+
+msgid "Setup scheduled tasks to be executed once a day"
+msgstr "设置计划任务每天执行一次"
+
+msgid ""
+"Scheduled tasks must be enabled immediately after installation. Cron is "
+"responsible for sending your clients reminder about payments, domain renewal "
+"notices and many more."
+msgstr ""
+"预定任务，必须在安装后立即启动。 Cron是负责发送你的客户支付，域名续订通知和多"
+"提醒。"
+
+msgid "Timezone"
+msgstr "时区"
+
+msgid "Time on server"
+msgstr "在服务器上的时间"
+
+msgid "Last time scheduled tasks were executed"
+msgstr "最后一次计划任务的执行"
+
+msgid "Scheduled tasks were never executed"
+msgstr "预定的任务从未执行"
+
+msgid "Unix crontab setup:"
+msgstr "Unix crontab设置："
+
+msgid "Execute scheduled tasks from browser"
+msgstr "从浏览器执行计划任务"
+
+msgid "Execute now"
+msgstr "立即执行"
+
+msgid ""
+"After purchase you have received an e-mail with license key. Update license "
+"key to unlock all features of BoxBilling"
+msgstr ""
+"购买后您的电子邮件会收到license key。更新许可证密钥来解锁BoxBilling所有功能"
+
+msgid ""
+"To change license key, change <em>BB_LICENSE</em> value in <em>bb-config."
+"php</em> file"
+msgstr ""
+"要更改许可证密钥，改变<em>bb-config.php</em>里的<em>BB_LICENSE</em>的价值"
+
+msgid "Licensed to"
+msgstr "授权给"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Expires at"
+msgstr "到期于"
+
+msgid "Centova Cast product settings"
+msgstr "Centova铸造产品设置"
+
+msgid "Template"
+msgstr "模板"
+
+msgid "Max bitrate"
+msgstr "最大码率"
+
+msgid "Autostart"
+msgstr "自动启动"
+
+msgid "News and announcements"
+msgstr "新闻和公告"
+
+msgid "New announcement"
+msgstr "新公布的"
+
+msgid "Draft"
+msgstr "草案"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Edit product addon"
+msgstr "编辑产品的插件"
+
+msgid "Canned category"
+msgstr "Canned类别"
+
+msgid "Queues"
+msgstr "队列"
+
+msgid "Extension"
+msgstr "延期"
+
+msgid "Messages"
+msgstr "消息"
+
+msgid "Created"
+msgstr "创建"
+
+msgid "The list is empty."
+msgstr "该列表是空的。"
+
+msgid "Domain details"
+msgstr "域名详细信息"
+
+msgid "Domain"
+msgstr "域名"
+
+msgid "Registrar"
+msgstr "注册"
+
+msgid "Nameserver 1"
+msgstr "Nameserver 1"
+
+msgid "Nameserver 2"
+msgstr "Nameserver 2"
+
+msgid "Nameserver 3"
+msgstr "Nameserver 3"
+
+msgid "Nameserver 4"
+msgstr "Nameserver 4"
+
+msgid "Transfer code"
+msgstr "转移代码"
+
+msgid "Privacy protected"
+msgstr "隐私政策保护"
+
+msgid "Locked"
+msgstr "锁定"
+
+msgid "Registration/Renewal years"
+msgstr "注册/续期年"
+
+msgid "Registration date"
+msgstr "注册日期"
+
+msgid "Unlock"
+msgstr "解锁"
+
+msgid "Lock"
+msgstr "锁"
+
+msgid "Disable privacy protection"
+msgstr "禁用隐私保护"
+
+msgid "Enable privacy protection"
+msgstr "启用隐私保护"
+
+msgid "Nameservers"
+msgstr "域名服务器"
+
+msgid "Update domain contact details"
+msgstr "更新域名详细联系方式"
+
+msgid "First Name"
+msgstr "名字"
+
+msgid "Last Name"
+msgstr "姓"
+
+msgid "Zip"
+msgstr "邮编"
+
+msgid "Phone Country Code"
+msgstr "电话国家代码"
+
+msgid "Phone number"
+msgstr "电话号码"
+
+msgid "System activity"
+msgstr "系统活动"
+
+msgid "Message"
+msgstr "信息"
+
+msgid "Ip"
+msgstr "IP"
+
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+msgid "Variables"
+msgstr "参数"
+
+msgid "Template Settings"
+msgstr "模板设置"
+
+msgid "Reset template"
+msgstr "模板复位"
+
+msgid "Examples"
+msgstr "实例"
+
+msgid "Manage email template"
+msgstr "管理电子邮件模板"
+
+msgid ""
+"Most email templates receives parameters from BoxBilling. You can browse "
+"them on \"Variables\" tab. Copy variable name to email template and hit "
+"preview to see parsed content. Please note that values will be different "
+"when actual email is sent."
+msgstr ""
+"大多数的电子邮件模板，接收参数来自BoxBilling。您可以在“变量”选项卡上浏览他"
+"们。复制变量名到电子邮件模板和命中预览来查看解析的内容。请注意，值会有所不"
+"同，当实际的电子邮件发送。"
+
+msgid "Template updated"
+msgstr "模板更新"
+
+msgid "Template settings"
+msgstr "模板设置"
+
+msgid "Enable or disable this email template."
+msgstr "启用或禁用此电子邮件模板。"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "List of variables used in this email"
+msgstr "在这封电子邮件中使用的变量列表"
+
+msgid ""
+"These values will change when real email is sent. You can pass these "
+"variables to admin or guest API to get additional information from database."
+msgstr ""
+"真实的电子邮件被发送时，这些值会发生变化。您可以通过这些变量管理员或来宾API从"
+"数据库中获取更多信息。"
+
+msgid "Variable"
+msgstr "变量"
+
+msgid "Example value"
+msgstr "示例值"
+
+msgid "This template does not receive any parameters"
+msgstr "此模板不接受任何参数"
+
+msgid "Reset email template to default"
+msgstr "重置为默认的电子邮件模板"
+
+msgid "Reset to default"
+msgstr "重置为默认值"
+
+msgid "Email templates examples"
+msgstr "电子邮件模板例子"
+
+msgid ""
+"Email template playground. Use this tool to try rendering email templates."
+msgstr "电子邮件模板游乐场。使用此工具来尝试读取电子邮件模板。"
+
+msgid "Details"
+msgstr "详细信息"
+
+msgid "Manage"
+msgstr "管理"
+
+msgid "Forum"
+msgstr "论坛"
+
+msgid "Started by"
+msgstr "开始的"
+
+msgid "Views"
+msgstr "浏览次数"
+
+msgid "Sticky"
+msgstr "粘"
+
+msgid "Created at"
+msgstr "创建于"
+
+msgid "Updated at"
+msgstr "更新于"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Quote"
+msgstr "引用"
+
+msgid "Post"
+msgstr "邮报"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Transactions"
+msgstr "交易"
+
+msgid "Filter transactions"
+msgstr "筛选交易"
+
+msgid "ID on payment gateway"
+msgstr "支付网关的ID"
+
+msgid "Invoice Id"
+msgstr "发票标识"
+
+msgid "Payment Gateway"
+msgstr "支付网关"
+
+msgid "Received at"
+msgstr "接收"
+
+msgid "Filter"
+msgstr "过滤器"
+
+msgid "Processed"
+msgstr "加工"
+
+msgid "Approved"
+msgstr "已批准"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Gateway"
+msgstr "网关"
+
+msgid "Filter invoices"
+msgstr "筛选发票"
+
+msgid "Nr"
+msgstr "Nr"
+
+msgid "All statuses"
+msgstr "所有状态"
+
+msgid "Paid"
+msgstr "付款"
+
+msgid "Unpaid"
+msgstr "未付款"
+
+msgid "Refunded"
+msgstr "退款"
+
+msgid "Issue date"
+msgstr "发行日期"
+
+msgid "Unpaid invoices"
+msgstr "未付款的发票"
+
+msgid "Refunded invoices"
+msgstr "退款的发票"
+
+msgid "Paid invoices"
+msgstr "支付发票"
+
+msgid "New Invoice"
+msgstr "新发票"
+
+msgid "Issued at"
+msgstr "发行"
+
+msgid "Paid at"
+msgstr "支付"
+
+msgid "Client"
+msgstr "客户"
+
+msgid "Start typing clients name, email or ID"
+msgstr "开始输入客户的姓名，电子邮件或ID"
+
+msgid "Prepare"
+msgstr "准备"
+
+msgid "Payment gateway configuration"
+msgstr "支付网关配置"
+
+msgid "Payment gateway title"
+msgstr "支付网关标题"
+
+msgid ""
+"Select which currencies can accept this payment gateway (Select none to "
+"allow all currencies)"
+msgstr "选择哪些货币可以接受这个支付网关(选择none允许所有货币)"
+
+msgid "Allow one time payments"
+msgstr "允许一次支付"
+
+msgid "Allow subscription payments"
+msgstr "允许订阅支付"
+
+msgid "Enable test mode"
+msgstr "启用测试模式"
+
+msgid "IPN Callback URL"
+msgstr "IPN回调URL"
+
+msgid "Go back"
+msgstr "返回"
+
+msgid "Tickets waiting for staff reply"
+msgstr "票等待工作人员回复"
+
+msgid "Tickets waiting for client reply"
+msgstr "票等待客户回复"
+
+msgid "Solved tickets"
+msgstr "解决的票"
+
+msgid "Public tickets"
+msgstr "公共票"
+
+msgid "Import SolusVM servers"
+msgstr "导入SolusVM服务器"
+
+msgid "Read before importing servers"
+msgstr "导入服务器之前，请阅读"
+
+msgid "VServer ID"
+msgstr "VServer ID"
+
+msgid "Client ID"
+msgstr "客户ID"
+
+msgid "Import selected SolusVM virtual server to BoxBilling"
+msgstr "导入选定的SolusVM虚拟服务器到BoxBilling"
+
+msgid "Ticket ID"
+msgstr "票ID"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Time opened"
+msgstr "开设时间"
+
+msgid "Last updated"
+msgstr "最后更新"
+
+msgid "SolusVM configuration"
+msgstr "SolusVM配置"
+
+msgid "Virtualization type"
+msgstr "虚拟化类型"
+
+msgid "Node"
+msgstr "节点"
+
+msgid ""
+"Make sure BoxBilling can connect to SolusVM master server and check if nodes "
+"are configured for selected virtualizator type. Refresh page if you have "
+"changed virtualization type to see new nodes."
+msgstr ""
+"确保BoxBilling可以连接到SolusVM主服务器和检查如果选定的virtualizator类型节点"
+"都配置。刷新页面，如果你已经改变了虚拟类型来查看新的节点。"
+
+msgid "Plan"
+msgstr "计划"
+
+msgid ""
+"Make sure BoxBilling can connect to SolusVM master server and check if plans "
+"are configured for selected virtualizator type."
+msgstr ""
+"确保BoxBilling可以连接到SolusVM主服务器和检查如果选定的virtualizator类型的配"
+"置计划。"
+
+msgid "Plan parameters"
+msgstr "计划参数"
+
+msgid "IPs amount"
+msgstr "IP数量"
+
+msgid "Guaranteed RAM"
+msgstr "保证的RAM"
+
+msgid "Hdd Space"
+msgstr "硬盘空间"
+
+msgid "Bandwidth"
+msgstr "带宽"
+
+msgid "CPU cores"
+msgstr "CPU内核"
+
+msgid "Custom extraip"
+msgstr "自定义extraip"
+
+msgid "HVMT"
+msgstr "HVMT"
+
+msgid "Issue cPanel License"
+msgstr "发行cPanel的许可证"
+
+msgid "Dedicated CPU"
+msgstr "专用CPU"
+
+msgid "Dedicated RAM"
+msgstr "专用内存"
+
+msgid "Disk space"
+msgstr "磁盘空间"
+
+msgid "Network transfer"
+msgstr "网络传输"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "BoxBilling version settings"
+msgstr "BoxBilling版本设置"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Release date"
+msgstr "发布日期"
+
+msgid "Back to extensions"
+msgstr "备份到扩展"
+
+msgid "Download latest"
+msgstr "下载最新"
+
+msgid "Download latest update"
+msgstr "下载最新更新"
+
+msgid "Staff members logins history"
+msgstr "工作人员登录历史"
+
+msgid "Admin"
+msgstr "管理员"
+
+msgid "Currency management"
+msgstr "货币管理"
+
+msgid "Currencies"
+msgstr "货币"
+
+msgid "Add new currency"
+msgstr "添加新货币"
+
+msgid "Manage currencies"
+msgstr "管理货币"
+
+msgid ""
+"Default currency is the one you manage all your prices in admin area. If "
+"your client in client area chooses other than default currency, prices will "
+"be recalculated according to conversion rate. You can have only one default "
+"currency. You can not add same currency once again. Changing default "
+"currency is not recommended when active orders are available. Nothing is "
+"recalculated on default currency change. Your income is calculated in "
+"default currency. Changing default currency after you have paid invoices "
+"will distort income statistics. Currency rates are taken from Google."
+msgstr ""
+"默认货币是一个你管理所有的价格管理区。如果您的客户端在客户区中选择默认货币以"
+"外，价格将根据转化率重新计算。您只能有一个默认货币。您不能再次添加相同的货"
+"币。活动订单时，不建议更改默认货币。没有默认货币变化重新计算。你的收入是默认"
+"货币计算。更改默认货币支付发票后，您会扭曲收入统计数据。货币汇率是来自谷歌。"
+
+msgid "ISO code"
+msgstr "ISO代码"
+
+msgid "Conversion rate"
+msgstr "转换率"
+
+msgid "Example price"
+msgstr "例价格"
+
+msgid "Update Rates"
+msgstr "更新价格"
+
+msgid "Code"
+msgstr "代码"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Articles"
+msgstr "条款"
+
+msgid "New article"
+msgstr "新条款"
+
+msgid "New category"
+msgstr "新类别"
+
+msgid "Manage categories"
+msgstr "管理分类"
+
+msgid "Category created"
+msgstr "创建分类"
+
+msgid "Getting started with SolusVM"
+msgstr "入门SolusVM"
+
+msgid "API configuration"
+msgstr "API配置"
+
+msgid ""
+"This guide will help you to get started selling SolusVM virtual servers with "
+"BoxBilling."
+msgstr "本指南将帮助你开始使用BoxBilling卖SolusVM虚拟服务器。"
+
+msgid "1. Configure your SolusVm server"
+msgstr "1.配置您的SolusVm服务器"
+
+msgid "2. Configure API"
+msgstr "2.配置API"
+
+msgid "3. Create new product category"
+msgstr "3.创建新产品类别"
+
+msgid "4. Create SolusVM products"
+msgstr "4.创建SolusVM产品"
+
+msgid "5. Import data from SolusVM server"
+msgstr "5.从SolusVM服务器导入数据"
+
+msgid "Connect to SolusVM master server via API"
+msgstr "连接到SolusVM主服务器通过API"
+
+msgid ""
+"To create an API user login to SolusVM admin area and click Configuration > "
+"API Access from the top menu then select Add API User."
+msgstr ""
+"要创建一个API用户登录到SolusVM管理区，单击“配置”> API访问从顶部的菜单然后选"
+"择“添加API用户。"
+
+msgid "INFORMATION"
+msgstr "信息"
+
+msgid "Master server IP"
+msgstr "主服务器IP"
+
+msgid "Secure connection"
+msgstr "安全连接"
+
+msgid "Custom port"
+msgstr "自定义端口"
+
+msgid "Leave blank to use default port 5353 and 5656 for secure connection"
+msgstr "保留空白使用默认端口5353和5656的安全连接"
+
+msgid "Test connection"
+msgstr "测试连接"
+
+msgid "Support help desks"
+msgstr "支持帮助台"
+
+msgid "New help desk"
+msgstr "新的帮助台"
+
+msgid "Close tickets after"
+msgstr "关闭票后"
+
+msgid "Close after"
+msgstr "关闭后"
+
+msgid "Can reopen"
+msgstr "可以重新打开"
+
+msgid "Pending approval amount"
+msgstr "待审批数量"
+
+msgid "Total approved amount"
+msgstr "总批准数量"
+
+msgid "Total paid amount"
+msgstr "总支付金额"
+
+msgid "Balance amount"
+msgstr "余款金额"
+
+msgid "Total clicks"
+msgstr "总点击次数"
+
+msgid "Unique clicks"
+msgstr "不重复点击"
+
+msgid "Commisions"
+msgstr "Commisions"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Main website"
+msgstr "主网站"
+
+msgid "Membership settings"
+msgstr "会员设置"
+
+msgid "Membership service does not have any configuration options"
+msgstr "会员服务没有任何配置选项"
+
+msgid "File information"
+msgstr "文件信息"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Downloads"
+msgstr "下载"
+
+msgid "Upload new file for this order"
+msgstr "该订单上传新文件"
+
+msgid ""
+"Use this function to update existing order file. Client will be able to "
+"download new file from client area"
+msgstr "使用此功能来更新现有的订单文件。客户将能够下载新的文件从客户区"
+
+msgid "Upload new file"
+msgstr "上传新文件"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Enable/Disable"
+msgstr "启用/禁用"
+
+msgid "Server manager"
+msgstr "服务器管理器"
+
+msgid "Access Hash (Instead of password for cPanel servers)"
+msgstr "访问哈希（相反密码的cPanel服务器）"
+
+msgid "Connection port"
+msgstr "连接端口"
+
+msgid "Use Secure connection"
+msgstr "使用安全连接"
+
+msgid "Update and test connection"
+msgstr "更新和测试连接"
+
+msgid "Update server"
+msgstr "更新服务器"
+
+msgid "Staff members"
+msgstr "工作人员"
+
+msgid "New staff member"
+msgstr "新工作人员"
+
+msgid "Manage groups"
+msgstr "管理组"
+
+msgid "New group"
+msgstr "新组"
+
+msgid "Inactive"
+msgstr "待用"
+
+msgid "Create group"
+msgstr "创建组"
+
+msgid "License details"
+msgstr "许可证详细信息"
+
+msgid "Plugin"
+msgstr "插件"
+
+msgid "Last ping"
+msgstr "最后ping"
+
+msgid "Validate IP"
+msgstr "验证IP"
+
+msgid "Valid IPs (one per line)"
+msgstr "有效的IP地址（每行一个）"
+
+msgid "Validate host"
+msgstr "验证主机"
+
+msgid "Valid hosts (one per line)"
+msgstr "有效主机（每行一个）"
+
+msgid "Validate path"
+msgstr "验证路径"
+
+msgid "Valid paths (one per line)"
+msgstr "有效路径（每行一个）"
+
+msgid "Validate version"
+msgstr "验证版本"
+
+msgid "Valid versions (one per line)"
+msgstr "有效版本（每行一个）"
+
+msgid "Topics"
+msgstr "主题"
+
+msgid "Forums"
+msgstr "论坛"
+
+msgid "New topic"
+msgstr "新主题"
+
+msgid "New forum"
+msgstr "新论坛"
+
+msgid "Replies"
+msgstr "回复"
+
+msgid "Sorting"
+msgstr "排序"
+
+msgid "API"
+msgstr "API"
+
+msgid "Gravatar"
+msgstr "Gravatar"
+
+msgid "Profile updated"
+msgstr "个人资料更新"
+
+msgid "API Key"
+msgstr "API Key"
+
+msgid ""
+"API key allows integration with external applications. You will need this "
+"key for authentication."
+msgstr "API key许与外部应用程序集成。您将需要这个密钥进行身份验证。"
+
+msgid ""
+"External application can control every aspect of BoxBilling using this API "
+"key."
+msgstr "外部应用程序可以控制每一个环节的BoxBilling使用这个API key。"
+
+msgid "Warning! Resetting the key will break existing applications using it."
+msgstr "警告！复位key将打破现有应用程序使用它。"
+
+msgid "Generate new key"
+msgstr "生成新的密钥"
+
+msgid "Change your avatar at"
+msgstr "改变你的头像在"
+
+msgid "Staff Group management"
+msgstr "工作人员组管理"
+
+msgid "Manage staff member details"
+msgstr "管理工作人员详细资料"
+
+msgid "Change staff member password"
+msgstr "更改工作人员密码"
+
+msgid "Staff member password changed"
+msgstr "工作人员更改密码"
+
+msgid "Repeat same password"
+msgstr "重复相同的密码"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Api key is used to manage system via other interfaces."
+msgstr "使用API key管理系统通过其他接口。"
+
+msgid "API key"
+msgstr "API key"
+
+msgid "Edit currency information"
+msgstr "编辑货币信息"
+
+msgid "Price format"
+msgstr "价格格式"
+
+msgid "Send Email Message"
+msgstr "发送电邮讯息"
+
+msgid "From name"
+msgstr "发件人名称"
+
+msgid "From email"
+msgstr "发件人电子邮件"
+
+msgid "Recipients filter. Select none to send message to all clients"
+msgstr "收件人过滤器。选择无将消息发送到所有客户端"
+
+msgid "Client status and group"
+msgstr "客户状态和组"
+
+msgid "Has order"
+msgstr "有顺序"
+
+msgid "Message content"
+msgstr "留言内容"
+
+msgid "Update and preview"
+msgstr "更新和预览"
+
+msgid "Send test message"
+msgstr "发送测试消息"
+
+msgid "Send message to clients"
+msgstr "信息发送到客户端"
+
+msgid "Back to list"
+msgstr "返回列表"
+
+msgid "Sell BoxBilling licenses"
+msgstr "出售BoxBilling许可证"
+
+msgid "1. Configure API"
+msgstr "1.配置API"
+
+msgid "Update API key"
+msgstr "更新API key"
+
+msgid "2. Become partner"
+msgstr "2.成为合作伙伴"
+
+msgid "3. Create license product"
+msgstr "3.创建许可证产品"
+
+msgid "Article updated"
+msgstr "条款更新"
+
+msgid "Article details"
+msgstr "条款详细介绍"
+
+msgid "Payment gateways"
+msgstr "支付网关"
+
+msgid "New payment gateway"
+msgstr "新支付网关"
+
+msgid "Allow subscriptions"
+msgstr "允许订阅"
+
+msgid "Adding new payment gateway"
+msgstr "添加新支付网关"
+
+msgid ""
+"Although BoxBilling ships with most popular payment gateways, you can "
+"install other gateways."
+msgstr "虽然BoxBilling附带最受欢迎的支付网关,你可以安装其他网关。"
+
+msgid "Follow these instructions to install new payment gateway."
+msgstr "按照这些说明来安装新的支付网关。"
+
+msgid "Check for payment gateway at"
+msgstr "检查支付网关"
+
+msgid "for more payment gateways"
+msgstr "更多的支付网关"
+
+msgid "Download payment gateway extension file and place it to"
+msgstr "支付网关扩展名文件下载，并将它放置"
+
+msgid "After file is uploaded in place, reload this page."
+msgstr "上传文件后，重新加载这个页面。"
+
+msgid "Select uploaded file name and click on install."
+msgstr "选择上传文件名，单击“安装”。"
+
+msgid ""
+"Payment gateway will be installed in BoxBilling and can be configured in "
+"\"Payment gateways\" tab."
+msgstr "支付网关将被安装在BoxBilling，并且可以配置在“支付网关”选项卡。"
+
+msgid "For developers. Read"
+msgstr "对开发人员。阅读"
+
+msgid ""
+"to learn how to create your own payment gateway and share it with community"
+msgstr "学习如何创建自己的支付网关和分享社区"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "All payment gateways installed"
+msgstr "支付网关安装"
+
+msgid "New Addon"
+msgstr "新插件"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "After order is placed"
+msgstr "下订单后"
+
+msgid "After payment is received"
+msgstr "收到付款后"
+
+msgid "Manual activation"
+msgstr "手动启动"
+
+msgid "Tld management"
+msgstr "顶级域名管理"
+
+msgid "Top level domain management"
+msgstr "顶级域名管理"
+
+msgid "Registration price"
+msgstr "注册价格"
+
+msgid "Renewal price"
+msgstr "更新价格"
+
+msgid "Transfer price"
+msgstr "转让价格"
+
+msgid "Minimum years of registration"
+msgstr "注册最低几年"
+
+msgid "Allow registration"
+msgstr "允许注册"
+
+msgid "Allow transfer"
+msgstr "允许转让"
+
+msgid "Create new coupon code"
+msgstr "建立新优惠券代码"
+
+msgid "Discount type"
+msgstr "折扣类型"
+
+msgid "Recurring"
+msgstr "经常"
+
+msgid "Free setup"
+msgstr "免费安装"
+
+msgid "Promo code limitations"
+msgstr "促销代码限制"
+
+msgid "Once per client"
+msgstr "每一个客户"
+
+msgid "Max uses (zero for unlimited)"
+msgstr "Max使用（零为无限）"
+
+msgid "Used"
+msgstr "使用"
+
+msgid "Period when code is valid"
+msgstr "期间代码是有效的"
+
+msgid "Products"
+msgstr "产品"
+
+msgid "Periods (Select none to apply to all periods)"
+msgstr "期间（选择没有适用于所有时期）"
+
+msgid "Max Addon domains"
+msgstr "最大附加域"
+
+msgid "Max FTP accounts"
+msgstr "最大FTP帐户"
+
+msgid "Max SQL Databases"
+msgstr "最大SQL数据库"
+
+msgid "Max Email Accounts"
+msgstr "最大电子邮件帐户"
+
+msgid "Max Subdomains"
+msgstr "最大子域名"
+
+msgid "Max Parked Domains"
+msgstr "最大停放的域名"
+
+msgid "Server manager specific parameters"
+msgstr "服务器管理器具体参数"
+
+msgid "Update hosting plan"
+msgstr "更新托管计划"
+
+msgid "Hosting plan additional parameters"
+msgstr "托管计划附加参数"
+
+msgid ""
+"Depending on server manager used to setup hosting account you may require "
+"provide additional parameters. List of parameters server managers requires "
+"you can find on extensions page."
+msgstr ""
+"根据服务器管理器用于设置托管帐户您可能需要提供额外的参数。目录的参数服务器管"
+"理需要扩展页面上，你可以找到。"
+
+msgid "Add new configuration field"
+msgstr "添加新配置领域"
+
+msgid "Pending approval"
+msgstr "待审批"
+
+msgid "Affiliates"
+msgstr "联盟代理"
+
+msgid "Clicks"
+msgstr "点击"
+
+msgid "Joined at"
+msgstr "注册在"
+
+msgid "Affiliate module settings"
+msgstr "加盟模块设置"
+
+msgid "Offer your clients become affiliates of your services."
+msgstr "为您的客户变成你的服务分支机构。"
+
+msgid "Commission from order"
+msgstr "从订单委员会"
+
+msgid "Days from order activation to admit commission"
+msgstr "天从订单激活承认委员会"
+
+msgid "Bonus amount for becoming affiliate in"
+msgstr "奖金金额成为会员在"
+
+msgid "Minimum withdraw amount."
+msgstr "最小收回金额。"
+
+msgid ""
+"Redirect Url. Where is your client redirected after visiting refferal link"
+msgstr "重定向URL。哪里是你的客户端访问后refferal链接重定向"
+
+msgid "Hosting settings"
+msgstr "托管设置"
+
+msgid "Hosting plan"
+msgstr "托管计划"
+
+msgid "Reseller hosting"
+msgstr "经销商托管"
+
+msgid "Free domain registration"
+msgstr "免费域名注册"
+
+msgid "Free domain transfer"
+msgstr "免费域名转移"
+
+msgid "Hosting plans"
+msgstr "托管计划"
+
+msgid "Servers"
+msgstr "服务器"
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Website statistic"
+msgstr "网站统计"
+
+msgid "Metric"
+msgstr "度量"
+
+msgid "This Month"
+msgstr "本月"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Income"
+msgstr "收入"
+
+msgid "Define date interval for graphs "
+msgstr "定义日期的时间间隔图"
+
+msgid "Update graphs"
+msgstr "更新图表"
+
+msgid "Support tickets"
+msgstr "支持票"
+
+msgid "Orders by status"
+msgstr "订单状态"
+
+msgid "Income vs Refund"
+msgstr "收入与退款"
+
+msgid "Hosting plans and servers"
+msgstr "托管计划和服务器"
+
+msgid "New server"
+msgstr "新服务器"
+
+msgid "New hosting plan"
+msgstr "新托管计划"
+
+msgid "New server manager"
+msgstr "新服务器管理"
+
+msgid "Addon domains"
+msgstr "附加域"
+
+msgid "Unique name to identify this server"
+msgstr "独特的名称来标识该服务器"
+
+msgid "server1.yourserverdomain.com"
+msgstr "server1.yourserverdomain.com"
+
+msgid ""
+"Primary IP address of the server used to connect to it like: 123.123.123.123"
+msgstr "主要IP地址连接到它使用的服务器，如：123.123.123.123"
+
+msgid "Assigned IP Addresses"
+msgstr "分配的IP地址"
+
+msgid "List the IP Addresses assigned to the server (One per line)"
+msgstr "列出分配给服务器的IP地址（每行一个）"
+
+msgid "ns1.yourdomain.com"
+msgstr "ns1.yourdomain.com"
+
+msgid "ns2.yourdomain.com"
+msgstr "ns2.yourdomain.com"
+
+msgid "ns3.yourdomain.com"
+msgstr "ns3.yourdomain.com"
+
+msgid "ns4.yourdomain.com"
+msgstr "ns4.yourdomain.com"
+
+msgid "Login username to your server: root/reseller"
+msgstr "用户登录到您的服务器：根目录/经销商"
+
+msgid "Login password to your server"
+msgstr "您的服务器登录密码"
+
+msgid "Access Hash (Insted of password for cPanel servers)"
+msgstr "访问哈希（Insted的cPanel服务器的密码）"
+
+msgid "Add server"
+msgstr "添加服务器"
+
+msgid "Adding new hosting plan"
+msgstr "添加新托管计划"
+
+msgid ""
+"Depending on server manager used to setup hosting account you may require "
+"provide additional parameters in next step. In this step provide basic "
+"hosting plan information."
+msgstr ""
+"根据服务器管理器用于设置托管帐户，您可能需要提供额外的参数在接下来的步骤。在"
+"这个步骤中提供基本托管计划信息。"
+
+msgid "Unique name to identify this hosting plan"
+msgstr "独特的名称来标识这个托管计划"
+
+msgid "Disk quota (MB)"
+msgstr "磁盘配额 (MB)"
+
+msgid "Bandwidth (MB)"
+msgstr "带宽 (MB)"
+
+msgid "Create hosting plan"
+msgstr "创建托管计划"
+
+msgid "Adding new server manager"
+msgstr "添加新服务器管理器"
+
+msgid "Follow these instructions to install new hosting server manager."
+msgstr "按照这些说明来安装新的托管服务器管理器。"
+
+msgid "Check for server manager extensions at"
+msgstr "检查服务器管理器扩展"
+
+msgid "BoxBilling extensions site"
+msgstr "BoxBilling扩展网站"
+
+msgid "Download server manager extension file and place it to"
+msgstr "下载服务器管理器扩展名的文件，并将它放置"
+
+msgid "Server manager gateway will be automatically detected."
+msgstr "服务器管理器网关会自动检测到。"
+
+msgid "You can now create/edit servers with new server manager."
+msgstr "现在，您可以创建/编辑新服务器管理器。"
+
+msgid "BoxBilling documentation"
+msgstr "BoxBilling说明文件"
+
+msgid ""
+"to learn how to create your own server manager and share it with community"
+msgstr "学习如何创建自己的服务器管理与社区分享"
+
+msgid "Import SolusVM clients"
+msgstr "导入SolusVM客户"
+
+msgid "Import selected SolusVM clients to BoxBilling"
+msgstr "导入选定的SolusVM客户到BoxBilling"
+
+msgid "Listed in public"
+msgstr "上架在公共"
+
+msgid "Partner status"
+msgstr "合作伙伴状态"
+
+msgid "Partner product"
+msgstr "合作伙伴产品"
+
+msgid "Override price"
+msgstr "自定义价格"
+
+msgid "Website URL"
+msgstr "网站URL"
+
+msgid "Promo"
+msgstr "促销"
+
+msgid "New promo"
+msgstr "新促销"
+
+msgid "Discount"
+msgstr "折扣"
+
+msgid "Applies to"
+msgstr "适用于"
+
+msgid "Valid period"
+msgstr "有效期"
+
+msgid "Usage"
+msgstr "使用方法"
+
+msgid "Create special offers for your clients by creating coupon codes."
+msgstr "为您的客户创造优惠券代码创建的特殊优惠。"
+
+msgid "Absolute"
+msgstr "绝对"
+
+msgid "Percentage"
+msgstr "比率"
+
+msgid "Valid time (Leave blank for undefined time)"
+msgstr "有效时间（留空不确定的时间）"
+
+msgid "Products (Select none to apply to all products)"
+msgstr "产品介绍（选择没有适用于所有产品）"
+
+msgid "Forum details"
+msgstr "论坛详细资料"
+
+msgid "Clients logins history"
+msgstr "客户登录历史"
+
+msgid "Search:"
+msgstr "搜索："
+
+msgid "Enter search text.."
+msgstr "输入搜索文本.."
+
+msgid "Membership details"
+msgstr "会员详细资料"
+
+msgid "Node / ID / VMID"
+msgstr "节点/ ID / VMID"
+
+msgid "Operating System"
+msgstr "操作系统"
+
+msgid "IP address"
+msgstr "IP地址"
+
+msgid "Additional IP addresses"
+msgstr "其他IP地址"
+
+msgid "Root password"
+msgstr "Root密码"
+
+msgid "Client area username / password"
+msgstr "客户区域的用户名/密码"
+
+msgid "Console user / password"
+msgstr "控制台用户名/密码"
+
+msgid "Client area"
+msgstr "客户区"
+
+msgid "Admin area"
+msgstr "管理区"
+
+msgid "Change root password"
+msgstr "更改根密码"
+
+msgid "New password"
+msgstr "新密码"
+
+msgid "Change"
+msgstr "更改"
+
+msgid "Change hostname"
+msgstr "更改主机名"
+
+msgid "New hostname"
+msgstr "新主机名"
+
+msgid "Change plan"
+msgstr "更改计划"
+
+msgid "New plan"
+msgstr "新计划"
+
+msgid "Rebuild"
+msgstr "重建"
+
+msgid "New template"
+msgstr "新模板"
+
+msgid "Usage statistics"
+msgstr "使用情况统计"
+
+msgid "Free"
+msgstr "免费"
+
+msgid "Memory"
+msgstr "内存"
+
+msgid "Disk usage"
+msgstr "磁盘使用情况"
+
+msgid "Traffic"
+msgstr "流量"
+
+msgid "Load"
+msgstr "加载"
+
+msgid ""
+"Master node is offline, order is not yet activated or API is not configured "
+"properly."
+msgstr "主节点处于脱机状态，订单尚未启动或API配置不正确。"
+
+msgid "Service management"
+msgstr "服务管理"
+
+msgid "Changing settings does not send actions to SolusVM server."
+msgstr "更改设置并没有发送动作到SolusVM服务器。"
+
+msgid "Main IP address"
+msgstr "主IP地址"
+
+msgid "SpamChecker settings"
+msgstr "SpamChecker设置"
+
+msgid "Enable captcha for client registration and contact us forms"
+msgstr "启用客户端注册验证码与我们联系形式"
+
+msgid "Sign up for Recaptcha key for your domain at"
+msgstr "注册验证码key为您的域名"
+
+msgid "Recaptcha Enabled"
+msgstr "启用验证码"
+
+msgid "ReCaptcha Public key"
+msgstr "验证码公共密钥"
+
+msgid "ReCaptcha Private key"
+msgstr "验证码专用密钥"
+
+msgid "Akismet settings"
+msgstr "Akismet设置"
+
+msgid ""
+"Enable forum messages checking on <a href=\"http://www.akismet.com/\" target="
+"\"_blank\">http://www.akismet.com</a> database"
+msgstr ""
+"启用论坛的消息检查在<a href=\"http://www.akismet.com/\" target=\"_blank"
+"\">http://www.akismet.com</a>数据库"
+
+msgid "Enable check"
+msgstr "启用检查"
+
+msgid "Akismet API key"
+msgstr "Akismet API key"
+
+msgid "StopForumSpam.com settings"
+msgstr "StopForumSpam.com设置"
+
+msgid ""
+"If enabled, client ip will be checked on <a href=\"http://www.stopforumspam."
+"com/\" target=\"_blank\">http://www.stopforumspam.com</a> database before "
+"registration"
+msgstr ""
+"如果启用，将检查客户端IP<a href=\"http://www.stopforumspam.com/\" target="
+"\"_blank\">http://www.stopforumspam.com</a>在注册之前数据库"
+
+msgid "Canned responses"
+msgstr "Canned responses"
+
+msgid "New response"
+msgstr "新响应"
+
+msgid "Categories"
+msgstr "分类"
+
+msgid "Example extension settings"
+msgstr "示例扩展设置"
+
+msgid ""
+"Every extension can have settings page. Only requirement is to have "
+"mod_example_settings.phtml page in html_admin folder"
+msgstr ""
+"每个分机可以设置页面。唯一要求是有mod_example_settings.phtml页在html_admin文"
+"件"
+
+msgid "Parameter title"
+msgstr "参数名称"
+
+msgid "Example custom value"
+msgstr "示例自定义值"
+
+msgid "New note"
+msgstr "新笔记"
+
+msgid "Delete all messages"
+msgstr "删除所有邮件"
+
+msgid "Add note or todo task"
+msgstr "添加注释或待办任务"
+
+msgid "Add note"
+msgstr "添加注释"
+
+msgid "Stock control settings"
+msgstr "库存控制设置"
+
+msgid "Enable stock control"
+msgstr "启用库存控制"
+
+msgid "Allow quantity select on order form"
+msgstr "允许订货单上数量选择"
+
+msgid "Quantity in stock"
+msgstr "库存数量"
+
+msgid "Plugin name"
+msgstr "插件名称"
+
+msgid "Update configuration fields"
+msgstr "更新配置字段"
+
+msgid "Centova Cast"
+msgstr "Centova Cast"
+
+msgid "Centova Cast settings"
+msgstr "Centova Cast设置"
+
+msgid "Server URL"
+msgstr "服务器URL"
+
+msgid "Server Hostname"
+msgstr "服务器主机名"
+
+msgid "Server IP"
+msgstr "服务器IP"
+
+msgid "Register new server"
+msgstr "注册新服务器"
+
+msgid "Edit server"
+msgstr "编辑服务器"
+
+msgid "CentovaCast URL"
+msgstr "CentovaCast URL"
+
+msgid "Administrator password"
+msgstr "管理员密码"
+
+msgid "Register Centova Cast server"
+msgstr "注册Centova Cast服务器"
+
+msgid "Server added"
+msgstr "服务器添加"
+
+msgid "Create CentovaCast product"
+msgstr "创建CentovaCast产品"
+
+msgid "Email templates"
+msgstr "电子邮件模板"
+
+msgid "Email settings"
+msgstr "电子邮件设置"
+
+msgid ""
+"The list is empty. Depending on modules enabled email templates will be "
+"inserted after first event occurrence."
+msgstr "该列表是空的。根据模块启用电子邮件模板将被插入后的第一个事件发生。"
+
+msgid "Configure email options"
+msgstr "配置电子邮件选项"
+
+msgid ""
+"BoxBilling sends emails using <em>sendmail</em> by default or you can "
+"configure your own SMTP server"
+msgstr ""
+"BoxBilling发送电子邮件使用<em>sendmail</em>默认情况下或者你可以配置自己的SMTP"
+"服务器"
+
+msgid "Email transport"
+msgstr "电子邮件传输"
+
+msgid "SendMail"
+msgstr "发送邮件"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "SMTP Hostname"
+msgstr "SMTP主机名"
+
+msgid "SMTP Port"
+msgstr "SMTP端口"
+
+msgid "SMTP Username"
+msgstr "SMTP用户名"
+
+msgid "SMTP Password"
+msgstr "SMTP密码"
+
+msgid "SMTP Security"
+msgstr "SMTP安全"
+
+msgid "Update email settings"
+msgstr "更新电子邮件设置"
+
+msgid "Send test email to staff members"
+msgstr "向工作人员发送测试电子邮件"
+
+msgid "Where I can use new email template?"
+msgstr "我在哪里可以使用新的电子邮件模板？"
+
+msgid "Newly created email templates can be used in custom event hooks."
+msgstr "新创建的电子邮件模板可用于自定义事件挂接。"
+
+msgid "Action code"
+msgstr "动作代码"
+
+msgid "Number"
+msgstr "Number"
+
+msgid "Due at"
+msgstr "由于在"
+
+msgid "Reminded at"
+msgstr "特别提醒在"
+
+msgid "Serie and number"
+msgstr "系列和数量"
+
+msgid "Tax"
+msgstr "税"
+
+msgid "Text before invoice items table"
+msgstr "文本前发票项目表"
+
+msgid "Text after invoice items table"
+msgstr "文本后发票项目表"
+
+msgid "Company VAT"
+msgstr "公司增值税"
+
+msgid "Company Number"
+msgstr "公司编号"
+
+msgid "First name"
+msgstr "名字"
+
+msgid "Last name"
+msgstr "姓"
+
+msgid "Invoice items"
+msgstr "发票项目"
+
+msgid "Transaction Date"
+msgstr "交易日期"
+
+msgid "Transaction ID"
+msgstr "交易ID"
+
+msgid "Print"
+msgstr "打印"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Client area themes"
+msgstr "客户区域主题"
+
+msgid "Admin area themes"
+msgstr "管理区域主题"
+
+msgid "New theme"
+msgstr "新主题"
+
+msgid "Adding new client area theme"
+msgstr "添加新客户端区域主题"
+
+msgid "Follow these instructions to install new client area theme."
+msgstr "按照这些说明来安装新客户端区域主题。"
+
+msgid "Check for client area themes at"
+msgstr "检查客户区主题"
+
+msgid "Upload new theme files to"
+msgstr "上传新主题文件"
+
+msgid "and reload this page"
+msgstr "然后刷新页面"
+
+msgid ""
+"Client area theme will appear in &quot;Client area themes&quot; tab. And you "
+"can select it as default"
+msgstr "客户的主题将出现在“客户端区域主题”选项卡。你也可以选择它作为默认"
+
+msgid "For theme designers. Read"
+msgstr "主题设计。阅读"
+
+msgid "to learn how to create your own theme"
+msgstr "学习如何创建自己的主题"
+
+msgid "Adding new admin area theme"
+msgstr "添加新管理区域主题"
+
+msgid ""
+"Admin area follows same logic as client area themes with one additional "
+"rule: admin theme directory must be prefixed with &quot;admin_&quot;."
+msgstr ""
+"管理领域遵循相同的逻辑，客户端领域的主题有一个额外的规则：管理主题目录必须前"
+"缀用&quot;admin_&quot;."
+
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Canned response"
+msgstr "Canned response"
+
+msgid "New product"
+msgstr "新产品"
+
+msgid "Priority"
+msgstr "优先"
+
+msgid "Update priority"
+msgstr "更新优先级"
+
+msgid "Sent emails"
+msgstr "发送电子邮件"
+
+msgid "Subscriptions"
+msgstr "订阅"
+
+msgid "New subscription"
+msgstr "新订阅"
+
+msgid "Subscription ID on payment gateway"
+msgstr "在支付网关订阅ID"
+
+msgid "Period"
+msgstr "期"
+
+msgid "Import existing"
+msgstr "导入现有"
+
+msgid "Domain name"
+msgstr "域名"
+
+msgid "Domain TLD"
+msgstr "域名顶级域名"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Currently uploaded file"
+msgstr "目前上传的文件"
+
+msgid "No icons available"
+msgstr "没有可用图标"
+
+msgid "Filter clients"
+msgstr "筛选客户"
+
+msgid "All"
+msgstr "所有"
+
+msgid "New client"
+msgstr "新客户"
+
+msgid "Groups"
+msgstr "组"
+
+msgid "Ticket"
+msgstr "票"
+
+msgid "Task"
+msgstr "任务"
+
+msgid "Client tickets"
+msgstr "客户票"
+
+msgid "Help desk"
+msgstr "帮助台"
+
+msgid "Total responses"
+msgstr "Total responses"
+
+msgid "Task status"
+msgstr "任务状态"
+
+msgid "Related to"
+msgstr "相关"
+
+msgid "Upgrade to"
+msgstr "升级到"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Something went wrong here"
+msgstr "这里出了错"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Back to Dashboard"
+msgstr "返回资讯主页"
+
+msgid "Transaction"
+msgstr "交易"
+
+msgid "IPN"
+msgstr "IPN"
+
+msgid "Transaction details"
+msgstr "交易详情"
+
+msgid ""
+"If you are sure that this transaction is valid you can update transaction "
+"details in &quot;Manage&quot; tab and try processing transaction again"
+msgstr ""
+"如果你是确保本次交易是有效的你可以更新在“管理”选项并再次尝试处理交易交易细节"
+
+msgid "Payment gateway"
+msgstr "支付网关"
+
+msgid "Transaction ID on payment gateway"
+msgstr "支付网关的交易ID"
+
+msgid "Transaction status on payment gateway"
+msgstr "支付网关的交易状态"
+
+msgid "Note"
+msgstr "注意"
+
+msgid "Process"
+msgstr "过程"
+
+msgid "Invoice ID"
+msgstr "发票ID"
+
+msgid "Transaction processing information"
+msgstr "事务处理信息"
+
+msgid "Validate IPN"
+msgstr "验证IPN"
+
+msgid "Transaction information on payment gateway"
+msgstr "支付网关的交易信息"
+
+msgid "Transaction type"
+msgstr "交易类型"
+
+msgid "Transaction status on Payment Gateway"
+msgstr "支付网关的交易状态"
+
+msgid "Transaction ID on Payment Gateway"
+msgstr "支付网关的交易ID"
+
+msgid "Note about this transaction"
+msgstr "注意有关本次交易的事项"
+
+msgid "GET"
+msgstr "GET"
+
+msgid "No GET parameters received"
+msgstr "没有收到GET的参数"
+
+msgid "POST"
+msgstr "发表"
+
+msgid "No POST parameters received"
+msgstr "没有收到POST的参数"
+
+msgid "SERVER"
+msgstr "服务器"
+
+msgid "No SERVER parameters logged"
+msgstr "没有记录的服务器参数"
+
+msgid "Braunstein extension settings"
+msgstr "Braunstein扩展设置"
+
+msgid "Required fields for client"
+msgstr "为客户端必填字段"
+
+msgid ""
+"Select which fields are required to be filled up by client on signup form"
+msgstr "选择哪些字段是客户端上的必须填写注册表格"
+
+msgid "Company name"
+msgstr "公司名称"
+
+msgid "Gender"
+msgstr "性别"
+
+msgid "Birthday"
+msgstr "生日"
+
+msgid "Address details"
+msgstr "详细地址"
+
+msgid "Address line 1"
+msgstr "地址行1"
+
+msgid "Address line 2"
+msgstr "地址行2"
+
+msgid "Postcode/Zip"
+msgstr "邮编/邮编"
+
+msgid "My Products & Services"
+msgstr "我的产品和服务"
+
+msgid "Filter orders"
+msgstr "订单过滤器"
+
+msgid "Product"
+msgstr "产品"
+
+msgid "Invoice option"
+msgstr "发票选项"
+
+msgid "Creation date"
+msgstr "创建日期"
+
+msgid "Pending setup"
+msgstr "待定设置"
+
+msgid "Supended"
+msgstr "暂停"
+
+msgid "New order"
+msgstr "新订单"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Domain action"
+msgstr "域名动作"
+
+msgid "Register domain"
+msgstr "注册域名"
+
+msgid "Domain name to register"
+msgstr "域名注册"
+
+msgid "Years"
+msgstr "年"
+
+msgid "Transfer domain"
+msgstr "域名转移"
+
+msgid "Domain name to transfer"
+msgstr "域名转移"
+
+msgid "Domain transfer code"
+msgstr "域名传输代码"
+
+msgid "License settings"
+msgstr "License设置"
+
+msgid "Prefix"
+msgstr "前缀"
+
+msgid "Length"
+msgstr "长度"
+
+msgid "Validate Hostname"
+msgstr "验证主机名"
+
+msgid "Validate Version"
+msgstr "验证版本"
+
+msgid "Validate Path"
+msgstr "验证路径"
+
+msgid "License plugins"
+msgstr "License插件"
+
+msgid ""
+"BoxBilling gives you ability to provide your own license generation script. "
+"Follow instructions bellow to install new license plugin"
+msgstr ""
+"BoxBilling让你能够提供你自己的许可证生成脚本。按照指示安装新的许可证插件"
+
+msgid "License plugin is PHP class \"License_PluginName\" with one method"
+msgstr "License插件的PHP类“License_PluginName”的方法之一"
+
+msgid "Take a look at default plugin at"
+msgstr "看一看在默认插件"
+
+msgid "Create your plugin and place it to"
+msgstr "创建你的插件并将它放置"
+
+msgid "BoxBilling will automatically detect new plugin"
+msgstr "BoxBilling会自动检测到新的插件"
+
+msgid "Read"
+msgstr "阅读"
+
+msgid "for more information."
+msgstr "了解更多信息。"
+
+msgid "Filter support tickets"
+msgstr "过滤支持票"
+
+msgid "Order ID"
+msgstr "订单ID"
+
+msgid "Ticket subject"
+msgstr "票主题"
+
+msgid "Ticket messages"
+msgstr "票的信息"
+
+msgid "New ticket"
+msgstr "新票"
+
+msgid "New email"
+msgstr "新邮件"
+
+msgid "Last message"
+msgstr "最新消息"
+
+msgid "ago"
+msgstr "之前"
+
+msgid "Open ticket for existing client"
+msgstr "对现有客户开放票"
+
+msgid "Open public ticket for non client"
+msgstr "非客户端开放的公共票"
+
+msgid "Receivers name"
+msgstr "接收器名称"
+
+msgid "John Smith"
+msgstr "John Smith"
+
+msgid "to@gmail.com"
+msgstr "to@gmail.com"
+
+msgid "Sent"
+msgstr "已发送"
+
+msgid "Resend"
+msgstr "重新发送"
+
+msgid "Top level domains"
+msgstr "顶级域名"
+
+msgid "New top level domain"
+msgstr "新顶级域名"
+
+msgid "Registrars"
+msgstr "登记处"
+
+msgid "New domain registrar"
+msgstr "新域名注册商"
+
+msgid "Manage TLDs"
+msgstr "管理顶级域名（TLD）"
+
+msgid ""
+"Setup domain pricing and allowed operations. Assign specific domain "
+"registrars for each Top Level Domain (TLD)"
+msgstr "设置域的定价和允许的操作。指定特定的域名注册商为每个顶级域名（TLD）"
+
+msgid "TLD"
+msgstr "TLD"
+
+msgid "Registration"
+msgstr "注册"
+
+msgid "Renew"
+msgstr "续订"
+
+msgid "Transfer"
+msgstr "转让"
+
+msgid "Operations"
+msgstr "操作"
+
+msgid "Allow register:"
+msgstr "允许注册："
+
+msgid "Allow transfer:"
+msgstr "允许转移："
+
+msgid "Active:"
+msgstr "活跃："
+
+msgid "Add new top level domain"
+msgstr "添加新顶级域名"
+
+msgid "Setup new TLD prices and properties"
+msgstr "设置新的TLD价格和属性"
+
+msgid "Tld"
+msgstr "顶级域名"
+
+msgid "Domain registrars"
+msgstr "域名注册"
+
+msgid "Manage domain registrars"
+msgstr "管理域名注册商"
+
+msgid ""
+"Setup default nameservers that will be used for new domain registrations if "
+"client have not provided his own nameservers in order form"
+msgstr ""
+"设置默认的域名服务器，将使用新的域名注册如果客户没有提供自己的域名的订购表格"
+
+msgid "Update nameservers"
+msgstr "更新域名服务器"
+
+msgid "Adding new domain registrar"
+msgstr "添加新域名注册商"
+
+msgid "Follow instrunctions bellow to install new domain registrar."
+msgstr "按照instrunctions安装新的域名注册商。"
+
+msgid "Check domain registrar you are looking for is available at"
+msgstr "检查你正在寻找的域名注册商可于"
+
+msgid "Download domain registrar file and place to"
+msgstr "下载的域名注册文件和地点"
+
+msgid "Reload this page to see newly detected domain registrar"
+msgstr "刷新此页面可以看到新检测域名注册商"
+
+msgid ""
+"Click on install button. Now you will be able to create top level domains "
+"with new domain registrar"
+msgstr "点击安装按钮。现在，您将能够创建新的域名注册商的顶级域名"
+
+msgid "to learn how to create your own domain registrar."
+msgstr "学习如何创建自己的域名注册商。"
+
+msgid "SEO settings"
+msgstr "SEO设置"
+
+msgid "Ping sitemap to Google"
+msgstr "Ping sitemap到Google"
+
+msgid "Ping sitemap to Yahoo"
+msgstr "Ping sitemap到Yahoo"
+
+msgid "Ping sitemap to Bing"
+msgstr "Ping sitemap到Bing"
+
+msgid "management"
+msgstr "管理"
+
+msgid "Support ticket"
+msgstr "支持票"
+
+msgid "Staff member"
+msgstr "工作人员"
+
+msgid "Announcement"
+msgstr "公告"
+
+msgid "Knowledge base article"
+msgstr "知识库文章"
+
+msgid "Forum topic"
+msgstr "论坛主题"
+
+msgid "Tax rules"
+msgstr "税务规则"
+
+msgid "New tax rule"
+msgstr "新税收规则"
+
+msgid "Tax settings"
+msgstr "税设置"
+
+msgid "EU VAT"
+msgstr "欧盟增值税"
+
+msgid "State/Region"
+msgstr "国家/地区"
+
+msgid "Tax rate"
+msgstr "税率"
+
+msgid "Applies to any country"
+msgstr "适用于任何国家"
+
+msgid "Applies to any state"
+msgstr "适用于任何状态"
+
+msgid "Enable tax support"
+msgstr "启用税收支持"
+
+msgid "Automatic VAT Tax Rules Setup"
+msgstr "自动增值税税务规则设置"
+
+msgid ""
+"If you would like BoxBilling to automatically setup the EU VAT tax rules for "
+"you for all EU Member States then simply enter your VAT Label & local VAT "
+"rate below and click the submit button. This action will delete any existing "
+"tax rules and configure the VAT rates for all EU countries."
+msgstr ""
+"如果您想BoxBilling自动设置为你所有欧盟成员国的欧盟增值税税收规则的国家的然后"
+"输入您的增值税标签和当地的增值税率低于，然后点击“提交”按钮。此操作将删除任何"
+"现有的税收规则和配置所有欧盟国家的增值税税率。"
+
+msgid "VAT Label"
+msgstr "增值税标签"
+
+msgid "VAT"
+msgstr "增值税"
+
+msgid "VAT rate"
+msgstr "增值税税率"
+
+msgid "21"
+msgstr "21"
+
+msgid "Create EU VAT Rules"
+msgstr "创建欧盟增值税规则"
+
+msgid "Tax title"
+msgstr "税务标题"
+
+msgid "sales Tax"
+msgstr "营业税"
+
+msgid "18"
+msgstr "18"
+
+msgid "Leave empty to apply to all states"
+msgstr "留空适用于所有国家"
+
+msgid "Yesterday"
+msgstr "昨天"
+
+msgid "This month so far"
+msgstr "本月至今"
+
+msgid "Latest orders"
+msgstr "最新订单"
+
+msgid "Product sales"
+msgstr "产品销售"
+
+msgid "Product/Service"
+msgstr "产品/服务"
+
+msgid "No active orders available"
+msgstr "没有可用的有效订单"
+
+msgid "Define date interval for graphs"
+msgstr "定义日期的时间间隔图"
+
+msgid "Recent clients activity"
+msgstr "最近客户活动"
+
+msgid "Recent staff activity"
+msgstr "最近员工活动"
+
+msgid "Create new order"
+msgstr "建立新秩序"
+
+msgid "for"
+msgstr "对于"
+
+msgid "Activate order"
+msgstr "启动顺序"
+
+msgid "Place new order"
+msgstr "放置新的秩序"
+
+msgid "Order management"
+msgstr "订单管理"
+
+msgid "Edit order"
+msgstr "编辑订单"
+
+msgid "History"
+msgstr "历史"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "Payment amount"
+msgstr "付款金额"
+
+msgid "Order status"
+msgstr "订单状态"
+
+msgid "Order created"
+msgstr "订单生成"
+
+msgid "Activated at"
+msgstr "激活在"
+
+msgid "Renewal date"
+msgstr "更新日期"
+
+msgid "Order notes"
+msgstr "订单注释"
+
+msgid "Order group ID"
+msgstr "订单组ID"
+
+msgid "Order promo code"
+msgstr "订购促销代码"
+
+msgid "Active support tickets"
+msgstr "积极支持票"
+
+msgid "Reason of suspendation"
+msgstr "暂停的原因"
+
+msgid "Suspendation reason"
+msgstr "暂停原因"
+
+msgid "Reason of cancelation"
+msgstr "取消的原因"
+
+msgid "Cancelation reason"
+msgstr "取消原因"
+
+msgid "Changes status without performing action"
+msgstr "更改状态不执行动作"
+
+msgid "Addons you have ordered with this service"
+msgstr "你用这个插件订购服务"
+
+msgid "Billing Cycle"
+msgstr "结算周期"
+
+msgid "Next due date"
+msgstr "下一个到期日"
+
+msgid "Order invoices"
+msgstr "订单发票"
+
+msgid "Order status change history"
+msgstr "订单状态改变历史"
+
+msgid "Support tickets regarding this order"
+msgstr "关于这个命令的支持票"
+
+msgid "BoxBilling license management"
+msgstr "BoxBilling license管理"
+
+msgid "License order ID"
+msgstr "授权订单ID"
+
+msgid "License key"
+msgstr "License key"
+
+msgid "Valid IPs"
+msgstr "有效的IP地址"
+
+msgid "Valid hostnames"
+msgstr "有效的主机名"
+
+msgid "Valid versions"
+msgstr "有效版本"
+
+msgid "Valid install paths"
+msgstr "有效的安装路径"
+
+msgid "Order is not activated or not found"
+msgstr "订单未激活或未发现"
+
+msgid "Example module"
+msgstr "示例模块"
+
+msgid "Example module title"
+msgstr "示例模块标题"
+
+msgid "This is an example extension content"
+msgstr "这是一个示例扩展内容"
+
+msgid "Parameters from Controller"
+msgstr "来自控制器的参数"
+
+msgid "Parameters from URL"
+msgstr "来自URL的参数"
+
+msgid "API example"
+msgstr "API的例子"
+
+msgid "README"
+msgstr "自述"
+
+msgid "Subscription"
+msgstr "订阅"
+
+msgid "Subscription details"
+msgstr "订购详细信息"
+
+msgid "Support help desk"
+msgstr "支持帮助台"
+
+msgid ""
+"Help desk name will be visible for clients when submitting new ticket. "
+"Define very large number of hours to disable auto close ticket option"
+msgstr ""
+"帮助台的名字将为客户可见在提交新票。定义非常大量的小时禁用自动关闭票选项"
+
+msgid "Server Name"
+msgstr "服务器名称"
+
+msgid "Account IP"
+msgstr "帐户IP"
+
+msgid "per month"
+msgstr "每月"
+
+msgid "Jump to cPanel"
+msgstr "跳转到的cPanel"
+
+msgid "Reseller control panel"
+msgstr "经销商控制面板"
+
+msgid "Change hosting plan"
+msgstr "更改托管计划"
+
+msgid "Hosting plan changed"
+msgstr "更改托管计划"
+
+msgid "Change account password"
+msgstr "更改帐户密码"
+
+msgid "Account password changed"
+msgstr "更改帐户密码"
+
+msgid "Password Confirm"
+msgstr "密码确认"
+
+msgid "Change IP"
+msgstr "更改IP"
+
+msgid "Account IP changed"
+msgstr "更改帐户IP"
+
+msgid "Change username"
+msgstr "更改用户名"
+
+msgid "Account username changed"
+msgstr "更改帐户的用户名"
+
+msgid "Change domain"
+msgstr "更改域名"
+
+msgid "Account domain changed"
+msgstr "更改帐户域名"
+
+msgid "Client area languages"
+msgstr "客户端语言"
+
+msgid "New language"
+msgstr "新语言"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "BoxBilling in your language"
+msgstr "BoxBilling在你的语言"
+
+msgid ""
+"Although BoxBilling displays in U.S. English by default, the software has "
+"the built-in capability to be used in any language. Follow instructions "
+"bellow to install new language."
+msgstr ""
+"虽然美国英语BoxBilling显示在默认情况下,该软件已内置的能力用于任何语言。按照指"
+"示来安装新的语言。"
+
+msgid "Check if your language translation file is available at"
+msgstr "检查如果你的语言翻译文件是可用的"
+
+msgid "Download language files and place them to"
+msgstr "下载语言文件，并将其放置到"
+
+msgid ""
+"Language will be automatically available and can be changed in client area"
+msgstr "语言将自动更改，可以在客户端"
+
+msgid "Installing BoxBilling in Your Language"
+msgstr "在BoxBilling安装你的语言"
+
+msgid ""
+"to learn how to install files that will transform BoxBilling so it displays "
+"in your language."
+msgstr "学习如何安装文件，将改变BoxBilling的，所以它会显示在你的语言。"
+
+msgid "Translations can be made with"
+msgstr "翻译可以用"
+
+msgid "software"
+msgstr "软件"
+
+msgid "Changing default language"
+msgstr "更改默认语言"
+
+msgid "Default language can be set in"
+msgstr "可以设置默认语言"
+
+msgid "Removing language"
+msgstr "删除语言"
+
+msgid ""
+"Removing languages from BoxBilling is really simple. Just delete language "
+"folder you wish from"
+msgstr "消除语言BoxBilling其实很简单的。只是删除文件夹你希望的语言"
+
+msgid "Partners list"
+msgstr "合作伙伴名单"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Sales"
+msgstr "销售"
+
+msgid "Signup Date"
+msgstr "注册日期"
+
+msgid "Global partners limits and settings"
+msgstr "全球合作伙伴的限制和设置"
+
+msgid "Default product which partners are reselling."
+msgstr "默认产品的合作伙伴转售。"
+
+msgid "Default order limit for partner per day. Used to prevent API abuse"
+msgstr "默认的顺序限制每天为合作伙伴。用于防止滥用API"
+
+msgid "Optional rules for becoming partner"
+msgstr "可选规则成为合作伙伴"
+
+msgid "Product which must be ordered before becoming partner"
+msgstr "成为合作伙伴之前必须订购产品"
+
+msgid "Check partners balance before creating new order for available amount"
+msgstr "检查合作伙伴结余，然后再创建新的可供数额顺序"
+
+msgid "How much money must be on clients balance to become a partner"
+msgstr "多少钱必须在客户端上结余成为合作伙伴"
+
+msgid "Registrar configuration"
+msgstr "过户登记处配置"
+
+msgid "Registrar title"
+msgstr "过户登记处标题"
+
+msgid "Post updated"
+msgstr "发表更新"
+
+msgid "Post created"
+msgstr "设立职位"
+
+msgid "Last update"
+msgstr "最后更新"
+
+msgid "Create main administrator account"
+msgstr "创建主管理员帐户"
+
+msgid "Enter your email address"
+msgstr "输入您的电子邮件地址"
+
+msgid "Enter your password"
+msgstr "输入您的密码"
+
+msgid "Create administrator account"
+msgstr "创建管理员账户"
+
+msgid "Remember me"
+msgstr "记住密码"
+
+msgid "Log me in"
+msgstr "我登录"
+
+msgid "Extensions"
+msgstr "扩展"
+
+msgid "Update BoxBilling"
+msgstr "更新BoxBilling"
+
+msgid "Learn more about extensions"
+msgstr "了解有关扩展名的详细信息"
+
+msgid "Hooks"
+msgstr "Hooks"
+
+msgid "Activate or deactivate extensions"
+msgstr "启用或停用扩展"
+
+msgid "Deactivate"
+msgstr "取消激活"
+
+msgid "Module settings"
+msgstr "模块设置"
+
+msgid "Hook"
+msgstr "Hook"
+
+msgid "Automatic update"
+msgstr "自动更新"
+
+msgid ""
+"Automatic updater is a tool to update BoxBilling to latest version in one "
+"click. Works on these hosting environments where PHP has permissions to "
+"overwrite files uploaded via FTP."
+msgstr ""
+"自动更新程序是一种工具来更新到最新版本BoxBilling在一个点击。适用于这些托管环"
+"境中PHP有权限覆盖文件通过FTP上传。"
+
+msgid "Manual update"
+msgstr "手动更新"
+
+msgid ""
+"Manual update is a solution when auto updater can not work on current "
+"installation environment"
+msgstr "手动的更新是自动更新的解决方案时，不能对当前的安装环境"
+
+msgid "Extending BoxBilling"
+msgstr "扩展BoxBilling"
+
+msgid ""
+"BoxBilling gives developers all the capabilities to customize, integrate & "
+"extend the core system into your own website & applications."
+msgstr ""
+"BoxBilling为开发人员提供的所有功能，定制，集成和延伸到自己的网站和应用程序的"
+"核心系统。"
+
+msgid "File manager"
+msgstr "文件管理器"
+
+msgid "Full screen"
+msgstr "全屏幕"
